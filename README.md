@@ -1,7 +1,7 @@
 # Times
 :point_right:API 이용해 뉴스정보 불러오기
 
-### :warning:API가 만료가되면 제 웹사이트에 뉴스가 안나올 수도 있습니다.
+:warning:API가 만료가되면 제 웹사이트에 뉴스가 안나올 수도 있습니다.
 
 :clapper: 데모앱: [TimesNews](https://times-news-std.netlify.app/)
 ## :memo:기능
