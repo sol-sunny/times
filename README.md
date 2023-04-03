@@ -1,7 +1,6 @@
 # Times
 :point_right:API 이용해 뉴스정보 불러오기
 
-![캡처](https://user-images.githubusercontent.com/117346671/229450631-c93a67c6-34f5-4fe1-850d-eb5366e74690.PNG)
 ### :warning:주위:api가 만료가되면 제 웹사이트에 뉴스가 안나올 수도 있습니다.
 
 :clapper: 데모앱: [TimesNews](https://times-news-std.netlify.app/)
